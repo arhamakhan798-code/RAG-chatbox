@@ -1,41 +1,38 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Secrets and credentials - NEVER commit to git
+.env
+*.env.local
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
 
-# testing
-/coverage
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*
 
-# next.js
-/.next/
-/out/
+# Sensitive Personal & Financial Data
+data/bank_details.csv
+*.csv.backup
 
-# production
-/build
+# Qdrant local storage and database files
+qdrant_storage/
+data/qdrant_store/
+*.db
+*.sqlite
 
-# misc
+# IDE & OS files
 .DS_Store
-*.pem
-
-# debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-
-# env files (can opt-in for committing if needed)
-.env*
-
-# vercel
-.vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
+Thumbs.db
+.vscode/
+.idea/
