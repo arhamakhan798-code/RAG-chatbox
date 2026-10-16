@@ -1,0 +1,5 @@
+order_id,customer,product,Bank_Name,Account Number,Mobile Number
+ORD-103,John,phone,Meezan Bank,9876543210,03009876543
+ORD-106,Syed,phone,HabibMetro,423423423423,03362507273
+ORD-107,Hussain,headphones,Meezan Bank,MEZN-123-123-42123,03362507273
+ORD-101,Ali,laptop,Habib Metro,34123123412,312312312312

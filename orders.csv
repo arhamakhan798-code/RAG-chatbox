@@ -1,0 +1,10 @@
+order_id,customer,Model Name,product,category,days_ago,Status
+ORD-101,Ali,MacBook Air M3,laptop,electronics,5,Return Approved
+ORD-102,Sara,WH-1000XM5,headphones,electronics,18,
+ORD-103,John,Galaxy S25 Ultra,phone,electronics,3,Return Approved
+ORD-104,Mia,Galaxy Tab S10 Ultra,tablet,electronics,22,
+ORD-105,Abis,WH-1000XM5,headphones,electronics,18,
+ORD-106,Syed,Galaxy S25 Ultra,phone,electronics,7,Return Approved
+ORD-107,Hussain,WH-1000XM5,headphones,electronics,10,Return Approved
+ORD-108,Abis,MacBook Air M3,laptop,electronics,0,Order Placed
+ORD-109,Ayyan,Keychron K8 Pro,keyboard,electronics,0,Order Placed

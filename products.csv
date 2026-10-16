@@ -1,0 +1,21 @@
+Category,Brand,Model Name,Key Specifications,Best For,price,stock
+Laptop,Apple,MacBook Air M3,"13.6"", Apple M3, 16GB RAM, 512GB SSD",Students & Professionals,799.99,8
+Laptop,Dell,XPS 15 9530,"Intel Core i7, RTX 4050, 16GB RAM",Creators & Office Work,149.99,0
+Laptop,Lenovo,Legion Pro 5,"Ryzen 9, RTX 4070, 32GB RAM",Gaming,499.99,15
+Laptop,HP,Spectre x360 14,"OLED Touchscreen, Intel Evo",Business & Travel,329.99,4
+Headphones,Sony,WH-1000XM5,"Noise Cancelling, 30hr Battery",Music & Travel,59.99,22
+Headphones,Apple,AirPods Max,"Spatial Audio, Premium Build",Apple Ecosystem,29.99,35
+Headphones,Bose,QuietComfort Ultra,"ANC, Comfortable Fit",Frequent Travelers,799.99,8
+Phone,Samsung,Galaxy S25 Ultra,"Snapdragon 8 Gen 4, 200MP Camera",Photography,149.99,0
+Phone,Apple,iPhone 16 Pro Max,"A18 Pro Chip, Titanium Design",Premium Users,499.99,15
+Phone,Google,Pixel 9 Pro,"AI Features, Excellent Camera",Android Users,329.99,4
+Phone,OnePlus,OnePlus 13,"Fast Charging, AMOLED Display",Performance,59.99,22
+Tablet,Apple,iPad Pro M4,"OLED Display, Apple Pencil Pro",Designers,29.99,35
+Tablet,Samsung,Galaxy Tab S10 Ultra,"14.6"" AMOLED, S-Pen",Entertainment,850,25
+Tablet,Xiaomi,Pad 7 Pro,"Snapdragon Processor, 144Hz",Budget Premium,149.99,0
+Keyboard,Logitech,MX Keys S,"Wireless, Backlit Keys",Productivity,499.99,15
+Keyboard,Keychron,Keychron K8 Pro,"Mechanical, Hot-Swappable",Programmers,329.99,4
+Keyboard,Razer,BlackWidow V4,RGB Mechanical Keyboard,Gamers,59.99,22
+Mouse,Logitech,MX Master 3S,"Ergonomic, Silent Clicks",Office & Editing,29.99,35
+Mouse,Razer,DeathAdder V3 Pro,"Lightweight, Wireless Gaming",Esports,499.99,4
+Mouse,SteelSeries,Aerox 5 Wireless,"Ultra-Lightweight, RGB",Gaming & Streaming,329.99,22
