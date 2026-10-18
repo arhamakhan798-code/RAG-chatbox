@@ -1,0 +1,593 @@
+[
+  {
+    "chunk_id": "policy_1",
+    "doc_type": "policy",
+    "title": "Policy - COMPANY POLICY DOCUMENT",
+    "section": "COMPANY POLICY DOCUMENT",
+    "content": "Organization: TechMart Online Store\nPolicy Section: COMPANY POLICY DOCUMENT\nDetails:\nTechMart Online Store — Customer Policies",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "COMPANY POLICY DOCUMENT",
+      "type": "policy_rule",
+      "rules_count": 1
+    }
+  },
+  {
+    "chunk_id": "policy_2",
+    "doc_type": "policy",
+    "title": "Policy - RETURN POLICY",
+    "section": "RETURN POLICY",
+    "content": "Organization: TechMart Online Store\nPolicy Section: RETURN POLICY\nDetails:\nCustomers may return items within 30 days of the purchase date.\nAll returned items must be unused and in their original packaging with all accessories included.\nElectronics such as laptops, phones, and tablets must be returned within 15 days.\nItems marked as \"Final Sale\" cannot be returned or exchanged.\nTo initiate a return, contact support@techmart.com with your order number.",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "RETURN POLICY",
+      "type": "policy_rule",
+      "rules_count": 5
+    }
+  },
+  {
+    "chunk_id": "policy_3",
+    "doc_type": "policy",
+    "title": "Policy - REFUND POLICY",
+    "section": "REFUND POLICY",
+    "content": "Organization: TechMart Online Store\nPolicy Section: REFUND POLICY\nDetails:\nRefunds are processed within 5 business days after the returned item is received.\nRefunds are issued to the original payment method only.\nShipping costs are non-refundable unless the return is due to a defective or wrong item.\nIf you paid by credit card, it may take an additional 3–5 business days for the refund to appear.",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "REFUND POLICY",
+      "type": "policy_rule",
+      "rules_count": 4
+    }
+  },
+  {
+    "chunk_id": "policy_4",
+    "doc_type": "policy",
+    "title": "Policy - SHIPPING POLICY",
+    "section": "SHIPPING POLICY",
+    "content": "Organization: TechMart Online Store\nPolicy Section: SHIPPING POLICY\nDetails:\nStandard shipping takes 3–5 business days and costs $4.99.\nExpress shipping takes 1–2 business days and costs $12.99.\nFree standard shipping is available on all orders above $50.\nWe currently ship to all 50 US states. International shipping is not available.\nOrders placed before 2:00 PM EST are dispatched the same day.",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "SHIPPING POLICY",
+      "type": "policy_rule",
+      "rules_count": 5
+    }
+  },
+  {
+    "chunk_id": "policy_5",
+    "doc_type": "policy",
+    "title": "Policy - WARRANTY POLICY",
+    "section": "WARRANTY POLICY",
+    "content": "Organization: TechMart Online Store\nPolicy Section: WARRANTY POLICY\nDetails:\nAll electronics come with a 1-year manufacturer warranty covering hardware defects.\nThe warranty does not cover physical damage, water damage, or unauthorized modifications.\nTo claim warranty service, contact support@techmart.com with proof of purchase.\nLaptops and desktops come with an optional 2-year extended warranty available for purchase.",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "WARRANTY POLICY",
+      "type": "policy_rule",
+      "rules_count": 4
+    }
+  },
+  {
+    "chunk_id": "policy_6",
+    "doc_type": "policy",
+    "title": "Policy - EXCHANGE POLICY",
+    "section": "EXCHANGE POLICY",
+    "content": "Organization: TechMart Online Store\nPolicy Section: EXCHANGE POLICY\nDetails:\nExchanges are allowed within 30 days of purchase (15 days for electronics).\nThe item being exchanged must be in original condition.\nIf the replacement item costs more, the customer pays the difference.\nIf the replacement item costs less, the difference is refunded within 5 business days.",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "EXCHANGE POLICY",
+      "type": "policy_rule",
+      "rules_count": 4
+    }
+  },
+  {
+    "chunk_id": "policy_7",
+    "doc_type": "policy",
+    "title": "Policy - CUSTOMER SUPPORT",
+    "section": "CUSTOMER SUPPORT",
+    "content": "Organization: TechMart Online Store\nPolicy Section: CUSTOMER SUPPORT\nDetails:\nSupport is available Monday to Friday, 9:00 AM to 6:00 PM EST.\nEmail: support@techmart.com\nPhone: 1-800-TECHMART\nLive chat is available on the website during support hours.",
+    "metadata": {
+      "source": "policy.txt",
+      "section": "CUSTOMER SUPPORT",
+      "type": "policy_rule",
+      "rules_count": 4
+    }
+  },
+  {
+    "chunk_id": "prod_1",
+    "doc_type": "product",
+    "title": "Apple MacBook Air M3",
+    "content": "Product: Apple MacBook Air M3\nCategory: Laptop\nBrand: Apple\nPrice: $799.99\nStock Status: In Stock (8 units available)\nKey Specifications: 13.6\", Apple M3, 16GB RAM, 512GB SSD\nRecommended For: Students & Professionals",
+    "metadata": {
+      "source": "products.csv",
+      "category": "laptop",
+      "brand": "apple",
+      "model": "MacBook Air M3",
+      "price": 799.99,
+      "stock": 8,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_2",
+    "doc_type": "product",
+    "title": "Dell XPS 15 9530",
+    "content": "Product: Dell XPS 15 9530\nCategory: Laptop\nBrand: Dell\nPrice: $149.99\nStock Status: Out of Stock (0 units)\nKey Specifications: Intel Core i7, RTX 4050, 16GB RAM\nRecommended For: Creators & Office Work",
+    "metadata": {
+      "source": "products.csv",
+      "category": "laptop",
+      "brand": "dell",
+      "model": "XPS 15 9530",
+      "price": 149.99,
+      "stock": 0,
+      "is_in_stock": false
+    }
+  },
+  {
+    "chunk_id": "prod_3",
+    "doc_type": "product",
+    "title": "Lenovo Legion Pro 5",
+    "content": "Product: Lenovo Legion Pro 5\nCategory: Laptop\nBrand: Lenovo\nPrice: $499.99\nStock Status: In Stock (15 units available)\nKey Specifications: Ryzen 9, RTX 4070, 32GB RAM\nRecommended For: Gaming",
+    "metadata": {
+      "source": "products.csv",
+      "category": "laptop",
+      "brand": "lenovo",
+      "model": "Legion Pro 5",
+      "price": 499.99,
+      "stock": 15,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_4",
+    "doc_type": "product",
+    "title": "HP Spectre x360 14",
+    "content": "Product: HP Spectre x360 14\nCategory: Laptop\nBrand: HP\nPrice: $329.99\nStock Status: In Stock (4 units available)\nKey Specifications: OLED Touchscreen, Intel Evo\nRecommended For: Business & Travel",
+    "metadata": {
+      "source": "products.csv",
+      "category": "laptop",
+      "brand": "hp",
+      "model": "Spectre x360 14",
+      "price": 329.99,
+      "stock": 4,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_5",
+    "doc_type": "product",
+    "title": "Sony WH-1000XM5",
+    "content": "Product: Sony WH-1000XM5\nCategory: Headphones\nBrand: Sony\nPrice: $59.99\nStock Status: In Stock (22 units available)\nKey Specifications: Noise Cancelling, 30hr Battery\nRecommended For: Music & Travel",
+    "metadata": {
+      "source": "products.csv",
+      "category": "headphones",
+      "brand": "sony",
+      "model": "WH-1000XM5",
+      "price": 59.99,
+      "stock": 22,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_6",
+    "doc_type": "product",
+    "title": "Apple AirPods Max",
+    "content": "Product: Apple AirPods Max\nCategory: Headphones\nBrand: Apple\nPrice: $29.99\nStock Status: In Stock (35 units available)\nKey Specifications: Spatial Audio, Premium Build\nRecommended For: Apple Ecosystem",
+    "metadata": {
+      "source": "products.csv",
+      "category": "headphones",
+      "brand": "apple",
+      "model": "AirPods Max",
+      "price": 29.99,
+      "stock": 35,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_7",
+    "doc_type": "product",
+    "title": "Bose QuietComfort Ultra",
+    "content": "Product: Bose QuietComfort Ultra\nCategory: Headphones\nBrand: Bose\nPrice: $799.99\nStock Status: In Stock (8 units available)\nKey Specifications: ANC, Comfortable Fit\nRecommended For: Frequent Travelers",
+    "metadata": {
+      "source": "products.csv",
+      "category": "headphones",
+      "brand": "bose",
+      "model": "QuietComfort Ultra",
+      "price": 799.99,
+      "stock": 8,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_8",
+    "doc_type": "product",
+    "title": "Samsung Galaxy S25 Ultra",
+    "content": "Product: Samsung Galaxy S25 Ultra\nCategory: Phone\nBrand: Samsung\nPrice: $149.99\nStock Status: Out of Stock (0 units)\nKey Specifications: Snapdragon 8 Gen 4, 200MP Camera\nRecommended For: Photography",
+    "metadata": {
+      "source": "products.csv",
+      "category": "phone",
+      "brand": "samsung",
+      "model": "Galaxy S25 Ultra",
+      "price": 149.99,
+      "stock": 0,
+      "is_in_stock": false
+    }
+  },
+  {
+    "chunk_id": "prod_9",
+    "doc_type": "product",
+    "title": "Apple iPhone 16 Pro Max",
+    "content": "Product: Apple iPhone 16 Pro Max\nCategory: Phone\nBrand: Apple\nPrice: $499.99\nStock Status: In Stock (15 units available)\nKey Specifications: A18 Pro Chip, Titanium Design\nRecommended For: Premium Users",
+    "metadata": {
+      "source": "products.csv",
+      "category": "phone",
+      "brand": "apple",
+      "model": "iPhone 16 Pro Max",
+      "price": 499.99,
+      "stock": 15,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_10",
+    "doc_type": "product",
+    "title": "Google Pixel 9 Pro",
+    "content": "Product: Google Pixel 9 Pro\nCategory: Phone\nBrand: Google\nPrice: $329.99\nStock Status: In Stock (4 units available)\nKey Specifications: AI Features, Excellent Camera\nRecommended For: Android Users",
+    "metadata": {
+      "source": "products.csv",
+      "category": "phone",
+      "brand": "google",
+      "model": "Pixel 9 Pro",
+      "price": 329.99,
+      "stock": 4,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_11",
+    "doc_type": "product",
+    "title": "OnePlus OnePlus 13",
+    "content": "Product: OnePlus OnePlus 13\nCategory: Phone\nBrand: OnePlus\nPrice: $59.99\nStock Status: In Stock (22 units available)\nKey Specifications: Fast Charging, AMOLED Display\nRecommended For: Performance",
+    "metadata": {
+      "source": "products.csv",
+      "category": "phone",
+      "brand": "oneplus",
+      "model": "OnePlus 13",
+      "price": 59.99,
+      "stock": 22,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_12",
+    "doc_type": "product",
+    "title": "Apple iPad Pro M4",
+    "content": "Product: Apple iPad Pro M4\nCategory: Tablet\nBrand: Apple\nPrice: $29.99\nStock Status: In Stock (35 units available)\nKey Specifications: OLED Display, Apple Pencil Pro\nRecommended For: Designers",
+    "metadata": {
+      "source": "products.csv",
+      "category": "tablet",
+      "brand": "apple",
+      "model": "iPad Pro M4",
+      "price": 29.99,
+      "stock": 35,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_13",
+    "doc_type": "product",
+    "title": "Samsung Galaxy Tab S10 Ultra",
+    "content": "Product: Samsung Galaxy Tab S10 Ultra\nCategory: Tablet\nBrand: Samsung\nPrice: $850\nStock Status: In Stock (25 units available)\nKey Specifications: 14.6\" AMOLED, S-Pen\nRecommended For: Entertainment",
+    "metadata": {
+      "source": "products.csv",
+      "category": "tablet",
+      "brand": "samsung",
+      "model": "Galaxy Tab S10 Ultra",
+      "price": 850.0,
+      "stock": 25,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_14",
+    "doc_type": "product",
+    "title": "Xiaomi Pad 7 Pro",
+    "content": "Product: Xiaomi Pad 7 Pro\nCategory: Tablet\nBrand: Xiaomi\nPrice: $149.99\nStock Status: Out of Stock (0 units)\nKey Specifications: Snapdragon Processor, 144Hz\nRecommended For: Budget Premium",
+    "metadata": {
+      "source": "products.csv",
+      "category": "tablet",
+      "brand": "xiaomi",
+      "model": "Pad 7 Pro",
+      "price": 149.99,
+      "stock": 0,
+      "is_in_stock": false
+    }
+  },
+  {
+    "chunk_id": "prod_15",
+    "doc_type": "product",
+    "title": "Logitech MX Keys S",
+    "content": "Product: Logitech MX Keys S\nCategory: Keyboard\nBrand: Logitech\nPrice: $499.99\nStock Status: In Stock (15 units available)\nKey Specifications: Wireless, Backlit Keys\nRecommended For: Productivity",
+    "metadata": {
+      "source": "products.csv",
+      "category": "keyboard",
+      "brand": "logitech",
+      "model": "MX Keys S",
+      "price": 499.99,
+      "stock": 15,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_16",
+    "doc_type": "product",
+    "title": "Keychron Keychron K8 Pro",
+    "content": "Product: Keychron Keychron K8 Pro\nCategory: Keyboard\nBrand: Keychron\nPrice: $329.99\nStock Status: In Stock (4 units available)\nKey Specifications: Mechanical, Hot-Swappable\nRecommended For: Programmers",
+    "metadata": {
+      "source": "products.csv",
+      "category": "keyboard",
+      "brand": "keychron",
+      "model": "Keychron K8 Pro",
+      "price": 329.99,
+      "stock": 4,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_17",
+    "doc_type": "product",
+    "title": "Razer BlackWidow V4",
+    "content": "Product: Razer BlackWidow V4\nCategory: Keyboard\nBrand: Razer\nPrice: $59.99\nStock Status: In Stock (22 units available)\nKey Specifications: RGB Mechanical Keyboard\nRecommended For: Gamers",
+    "metadata": {
+      "source": "products.csv",
+      "category": "keyboard",
+      "brand": "razer",
+      "model": "BlackWidow V4",
+      "price": 59.99,
+      "stock": 22,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_18",
+    "doc_type": "product",
+    "title": "Logitech MX Master 3S",
+    "content": "Product: Logitech MX Master 3S\nCategory: Mouse\nBrand: Logitech\nPrice: $29.99\nStock Status: In Stock (35 units available)\nKey Specifications: Ergonomic, Silent Clicks\nRecommended For: Office & Editing",
+    "metadata": {
+      "source": "products.csv",
+      "category": "mouse",
+      "brand": "logitech",
+      "model": "MX Master 3S",
+      "price": 29.99,
+      "stock": 35,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_19",
+    "doc_type": "product",
+    "title": "Razer DeathAdder V3 Pro",
+    "content": "Product: Razer DeathAdder V3 Pro\nCategory: Mouse\nBrand: Razer\nPrice: $499.99\nStock Status: In Stock (4 units available)\nKey Specifications: Lightweight, Wireless Gaming\nRecommended For: Esports",
+    "metadata": {
+      "source": "products.csv",
+      "category": "mouse",
+      "brand": "razer",
+      "model": "DeathAdder V3 Pro",
+      "price": 499.99,
+      "stock": 4,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "prod_20",
+    "doc_type": "product",
+    "title": "SteelSeries Aerox 5 Wireless",
+    "content": "Product: SteelSeries Aerox 5 Wireless\nCategory: Mouse\nBrand: SteelSeries\nPrice: $329.99\nStock Status: In Stock (22 units available)\nKey Specifications: Ultra-Lightweight, RGB\nRecommended For: Gaming & Streaming",
+    "metadata": {
+      "source": "products.csv",
+      "category": "mouse",
+      "brand": "steelseries",
+      "model": "Aerox 5 Wireless",
+      "price": 329.99,
+      "stock": 22,
+      "is_in_stock": true
+    }
+  },
+  {
+    "chunk_id": "order_ord-101",
+    "doc_type": "order",
+    "title": "Order ORD-101 - Ali",
+    "content": "Order Record: ORD-101\nCustomer Name: Ali\nItem Purchased: MacBook Air M3 (laptop)\nCategory: electronics\nPurchase Timing: Placed 5 days ago\nCurrent Order Status: Return Approved",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-101",
+      "customer": "ali",
+      "model": "MacBook Air M3",
+      "product": "laptop",
+      "category": "electronics",
+      "days_ago": 5,
+      "status": "Return Approved"
+    }
+  },
+  {
+    "chunk_id": "order_ord-102",
+    "doc_type": "order",
+    "title": "Order ORD-102 - Sara",
+    "content": "Order Record: ORD-102\nCustomer Name: Sara\nItem Purchased: WH-1000XM5 (headphones)\nCategory: electronics\nPurchase Timing: Placed 18 days ago\nCurrent Order Status: Processing / In Progress",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-102",
+      "customer": "sara",
+      "model": "WH-1000XM5",
+      "product": "headphones",
+      "category": "electronics",
+      "days_ago": 18,
+      "status": "Processing / In Progress"
+    }
+  },
+  {
+    "chunk_id": "order_ord-103",
+    "doc_type": "order",
+    "title": "Order ORD-103 - John",
+    "content": "Order Record: ORD-103\nCustomer Name: John\nItem Purchased: Galaxy S25 Ultra (phone)\nCategory: electronics\nPurchase Timing: Placed 3 days ago\nCurrent Order Status: Return Approved",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-103",
+      "customer": "john",
+      "model": "Galaxy S25 Ultra",
+      "product": "phone",
+      "category": "electronics",
+      "days_ago": 3,
+      "status": "Return Approved"
+    }
+  },
+  {
+    "chunk_id": "order_ord-104",
+    "doc_type": "order",
+    "title": "Order ORD-104 - Mia",
+    "content": "Order Record: ORD-104\nCustomer Name: Mia\nItem Purchased: Galaxy Tab S10 Ultra (tablet)\nCategory: electronics\nPurchase Timing: Placed 22 days ago\nCurrent Order Status: Processing / In Progress",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-104",
+      "customer": "mia",
+      "model": "Galaxy Tab S10 Ultra",
+      "product": "tablet",
+      "category": "electronics",
+      "days_ago": 22,
+      "status": "Processing / In Progress"
+    }
+  },
+  {
+    "chunk_id": "order_ord-105",
+    "doc_type": "order",
+    "title": "Order ORD-105 - Abis",
+    "content": "Order Record: ORD-105\nCustomer Name: Abis\nItem Purchased: WH-1000XM5 (headphones)\nCategory: electronics\nPurchase Timing: Placed 18 days ago\nCurrent Order Status: Processing / In Progress",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-105",
+      "customer": "abis",
+      "model": "WH-1000XM5",
+      "product": "headphones",
+      "category": "electronics",
+      "days_ago": 18,
+      "status": "Processing / In Progress"
+    }
+  },
+  {
+    "chunk_id": "order_ord-106",
+    "doc_type": "order",
+    "title": "Order ORD-106 - Syed",
+    "content": "Order Record: ORD-106\nCustomer Name: Syed\nItem Purchased: Galaxy S25 Ultra (phone)\nCategory: electronics\nPurchase Timing: Placed 7 days ago\nCurrent Order Status: Return Approved",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-106",
+      "customer": "syed",
+      "model": "Galaxy S25 Ultra",
+      "product": "phone",
+      "category": "electronics",
+      "days_ago": 7,
+      "status": "Return Approved"
+    }
+  },
+  {
+    "chunk_id": "order_ord-107",
+    "doc_type": "order",
+    "title": "Order ORD-107 - Hussain",
+    "content": "Order Record: ORD-107\nCustomer Name: Hussain\nItem Purchased: WH-1000XM5 (headphones)\nCategory: electronics\nPurchase Timing: Placed 10 days ago\nCurrent Order Status: Return Approved",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-107",
+      "customer": "hussain",
+      "model": "WH-1000XM5",
+      "product": "headphones",
+      "category": "electronics",
+      "days_ago": 10,
+      "status": "Return Approved"
+    }
+  },
+  {
+    "chunk_id": "order_ord-108",
+    "doc_type": "order",
+    "title": "Order ORD-108 - Abis",
+    "content": "Order Record: ORD-108\nCustomer Name: Abis\nItem Purchased: MacBook Air M3 (laptop)\nCategory: electronics\nPurchase Timing: Placed 0 days ago\nCurrent Order Status: Order Placed",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-108",
+      "customer": "abis",
+      "model": "MacBook Air M3",
+      "product": "laptop",
+      "category": "electronics",
+      "days_ago": 0,
+      "status": "Order Placed"
+    }
+  },
+  {
+    "chunk_id": "order_ord-109",
+    "doc_type": "order",
+    "title": "Order ORD-109 - Ayyan",
+    "content": "Order Record: ORD-109\nCustomer Name: Ayyan\nItem Purchased: Keychron K8 Pro (keyboard)\nCategory: electronics\nPurchase Timing: Placed 0 days ago\nCurrent Order Status: Order Placed",
+    "metadata": {
+      "source": "orders.csv",
+      "order_id": "ORD-109",
+      "customer": "ayyan",
+      "model": "Keychron K8 Pro",
+      "product": "keyboard",
+      "category": "electronics",
+      "days_ago": 0,
+      "status": "Order Placed"
+    }
+  },
+  {
+    "chunk_id": "bank_ord-103",
+    "doc_type": "bank_detail",
+    "title": "Bank Details for ORD-103 (John)",
+    "content": "Refund Banking Profile for Order: ORD-103\nCustomer Name: John\nAssociated Item: phone\nBank Name: Meezan Bank\nBank Account Number: 9876543210\nRegistered Mobile Number: 03009876543",
+    "metadata": {
+      "source": "bank_details.csv",
+      "order_id": "ORD-103",
+      "customer": "john",
+      "bank_name": "Meezan Bank",
+      "account_number": "9876543210",
+      "mobile": "03009876543"
+    }
+  },
+  {
+    "chunk_id": "bank_ord-106",
+    "doc_type": "bank_detail",
+    "title": "Bank Details for ORD-106 (Syed)",
+    "content": "Refund Banking Profile for Order: ORD-106\nCustomer Name: Syed\nAssociated Item: phone\nBank Name: HabibMetro\nBank Account Number: 423423423423\nRegistered Mobile Number: 03362507273",
+    "metadata": {
+      "source": "bank_details.csv",
+      "order_id": "ORD-106",
+      "customer": "syed",
+      "bank_name": "HabibMetro",
+      "account_number": "423423423423",
+      "mobile": "03362507273"
+    }
+  },
+  {
+    "chunk_id": "bank_ord-107",
+    "doc_type": "bank_detail",
+    "title": "Bank Details for ORD-107 (Hussain)",
+    "content": "Refund Banking Profile for Order: ORD-107\nCustomer Name: Hussain\nAssociated Item: headphones\nBank Name: Meezan Bank\nBank Account Number: MEZN-123-123-42123\nRegistered Mobile Number: 03362507273",
+    "metadata": {
+      "source": "bank_details.csv",
+      "order_id": "ORD-107",
+      "customer": "hussain",
+      "bank_name": "Meezan Bank",
+      "account_number": "MEZN-123-123-42123",
+      "mobile": "03362507273"
+    }
+  },
+  {
+    "chunk_id": "bank_ord-101",
+    "doc_type": "bank_detail",
+    "title": "Bank Details for ORD-101 (Ali)",
+    "content": "Refund Banking Profile for Order: ORD-101\nCustomer Name: Ali\nAssociated Item: laptop\nBank Name: Habib Metro\nBank Account Number: 34123123412\nRegistered Mobile Number: 312312312312",
+    "metadata": {
+      "source": "bank_details.csv",
+      "order_id": "ORD-101",
+      "customer": "ali",
+      "bank_name": "Habib Metro",
+      "account_number": "34123123412",
+      "mobile": "312312312312"
+    }
+  }
+]
